@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hey First Post!!"
-date: 2020-05-06 21:40:00 -0000
-categories: First
+title:  "Hey First Post!!"
+date:   2020-05-06 21:40:00 +0800
+categories: jekyll update
 ---
 
 
