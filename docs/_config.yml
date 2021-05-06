@@ -21,11 +21,12 @@
 title: SongSong Website
 email: p76091543@gs.ncku.edu.tw
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi~~ :laughing::laughing: peko~~
+  Hi~~  
+  Welcome!! Nice to meet you!!peko~~
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb@songsong0w0
-github_username:  jekyllHsuYuSung
+twitter_username: @songsong0w0
+github_username:  HsuYuSung
 
 # Build settings
 theme: minima
